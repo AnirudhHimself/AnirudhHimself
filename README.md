@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anirudh, a software engineer currently living in Georgia 🍑. I work on user interfaces at a health-tech company.
+I'm Anirudh, a software engineer currently living in Georgia 🍑. I work on user interfaces at a health-tech company. I started out my career doing user research, mostly the quantitative variety.
 
 <br />
 <br />
